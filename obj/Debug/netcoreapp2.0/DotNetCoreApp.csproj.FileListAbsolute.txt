@@ -1,0 +1,10 @@
+/Users/luisduenasgarcia/VSCode/DotNetCoreApp/bin/Debug/netcoreapp2.0/DotNetCoreApp.deps.json
+/Users/luisduenasgarcia/VSCode/DotNetCoreApp/bin/Debug/netcoreapp2.0/DotNetCoreApp.runtimeconfig.json
+/Users/luisduenasgarcia/VSCode/DotNetCoreApp/bin/Debug/netcoreapp2.0/DotNetCoreApp.runtimeconfig.dev.json
+/Users/luisduenasgarcia/VSCode/DotNetCoreApp/bin/Debug/netcoreapp2.0/DotNetCoreApp.dll
+/Users/luisduenasgarcia/VSCode/DotNetCoreApp/bin/Debug/netcoreapp2.0/DotNetCoreApp.pdb
+/Users/luisduenasgarcia/VSCode/DotNetCoreApp/obj/Debug/netcoreapp2.0/DotNetCoreApp.csproj.CoreCompileInputs.cache
+/Users/luisduenasgarcia/VSCode/DotNetCoreApp/obj/Debug/netcoreapp2.0/DotNetCoreApp.AssemblyInfoInputs.cache
+/Users/luisduenasgarcia/VSCode/DotNetCoreApp/obj/Debug/netcoreapp2.0/DotNetCoreApp.AssemblyInfo.cs
+/Users/luisduenasgarcia/VSCode/DotNetCoreApp/obj/Debug/netcoreapp2.0/DotNetCoreApp.dll
+/Users/luisduenasgarcia/VSCode/DotNetCoreApp/obj/Debug/netcoreapp2.0/DotNetCoreApp.pdb
