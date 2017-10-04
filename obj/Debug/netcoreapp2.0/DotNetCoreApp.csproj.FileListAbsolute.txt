@@ -8,3 +8,13 @@
 /Users/luisduenasgarcia/VSCode/DotNetCoreApp/obj/Debug/netcoreapp2.0/DotNetCoreApp.AssemblyInfo.cs
 /Users/luisduenasgarcia/VSCode/DotNetCoreApp/obj/Debug/netcoreapp2.0/DotNetCoreApp.dll
 /Users/luisduenasgarcia/VSCode/DotNetCoreApp/obj/Debug/netcoreapp2.0/DotNetCoreApp.pdb
+C:\Users\Luis.Duenas\Documents\Visual Studio Code\AspNetMVC\bin\Debug\netcoreapp2.0\DotNetCoreApp.deps.json
+C:\Users\Luis.Duenas\Documents\Visual Studio Code\AspNetMVC\bin\Debug\netcoreapp2.0\DotNetCoreApp.runtimeconfig.json
+C:\Users\Luis.Duenas\Documents\Visual Studio Code\AspNetMVC\bin\Debug\netcoreapp2.0\DotNetCoreApp.runtimeconfig.dev.json
+C:\Users\Luis.Duenas\Documents\Visual Studio Code\AspNetMVC\bin\Debug\netcoreapp2.0\DotNetCoreApp.dll
+C:\Users\Luis.Duenas\Documents\Visual Studio Code\AspNetMVC\bin\Debug\netcoreapp2.0\DotNetCoreApp.pdb
+C:\Users\Luis.Duenas\Documents\Visual Studio Code\AspNetMVC\obj\Debug\netcoreapp2.0\DotNetCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Luis.Duenas\Documents\Visual Studio Code\AspNetMVC\obj\Debug\netcoreapp2.0\DotNetCoreApp.AssemblyInfoInputs.cache
+C:\Users\Luis.Duenas\Documents\Visual Studio Code\AspNetMVC\obj\Debug\netcoreapp2.0\DotNetCoreApp.AssemblyInfo.cs
+C:\Users\Luis.Duenas\Documents\Visual Studio Code\AspNetMVC\obj\Debug\netcoreapp2.0\DotNetCoreApp.dll
+C:\Users\Luis.Duenas\Documents\Visual Studio Code\AspNetMVC\obj\Debug\netcoreapp2.0\DotNetCoreApp.pdb
